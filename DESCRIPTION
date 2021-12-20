@@ -1,0 +1,17 @@
+Package: StatComp21001
+Type: Package
+Title: Multi-Dimensional Scaling and the estimators of Gaussian mixture model parameters by EM algorithm in 'StatComp21001' package
+Version: 1.0
+Date: 2021-12-19
+Author: Lu Qi
+Maintainer: Lu Qi <hfut2016214493@163.com>
+Description: using R to estimate Gaussian mixture model parameters and Multi-Dimensional Scaling.
+License: GPL
+Imports: Rcpp, rmarkdown, knitr
+LinkingTo: Rcpp
+RoxygenNote: 7.1.2
+Encoding: UTF-8
+Suggests: knitr, rmarkdown
+VignetteBuilder: knitr
+URL: https://github.com/luqi330/StatComp
+BugReports: http://github.com/luqi330/Statcomp/issues
